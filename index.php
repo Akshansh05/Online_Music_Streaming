@@ -7,7 +7,7 @@
 <h1><center>
 <table border="0" bordercolor="green">
 <tr>
-<td><a href="index.html">HOME &nbsp;&nbsp;&nbsp;&nbsp; </a></td>
+<td><a href="index.php">HOME &nbsp;&nbsp;&nbsp;&nbsp; </a></td>
 <td><a href="latest.html">LATEST SONGS &nbsp;&nbsp;&nbsp;</a></td>
 <td><a href="#contact">CONTACT US &nbsp;&nbsp;&nbsp;</a></td>
 <td><a href="#about">ABOUT US</a></td>
